@@ -1,0 +1,15 @@
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/bin/Debug/net7.0/day_4
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/bin/Debug/net7.0/day_4.deps.json
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/bin/Debug/net7.0/day_4.runtimeconfig.json
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/bin/Debug/net7.0/day_4.dll
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/bin/Debug/net7.0/day_4.pdb
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/day_4.csproj.AssemblyReference.cache
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/day_4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/day_4.AssemblyInfoInputs.cache
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/day_4.AssemblyInfo.cs
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/day_4.csproj.CoreCompileInputs.cache
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/day_4.dll
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/refint/day_4.dll
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/day_4.pdb
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/day_4.genruntimeconfig.cache
+/Users/cyang/Documents/Programming/advent_of_code_2022/day_4/obj/Debug/net7.0/ref/day_4.dll
